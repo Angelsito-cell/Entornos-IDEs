@@ -5,20 +5,20 @@
 
 
 
-###¿Qué entornos han sido seleccionados? 
+### ¿Qué entornos han sido seleccionados? 
 
 - IntelliJ IDEA Ultimate
 - Eclipse
 
 
 
-##2. Parte individual: Trabajo personal en los puntos 1-6
+## 2. Parte individual: Trabajo personal en los puntos 1-6
 
 
-###2.1. Instalación de entornos de desarrollo, propietarios y libres 
+### 2.1. Instalación de entornos de desarrollo, propietarios y libres 
 
 
- ####Instalación de entornos de desarrollo, propietarios y libres
+ #### Instalación de entornos de desarrollo, propietarios y libres
 
 ![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Eclipse1.png)
 
