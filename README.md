@@ -21,6 +21,7 @@
  #### Instalación de entornos de desarrollo, propietarios y libres
 
 ![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Eclipse1.png)
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntelliJ.png)
 
 
 Preguntas Evaluativas
