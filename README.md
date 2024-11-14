@@ -175,15 +175,19 @@ Explicación paso a paso del proyecto:
 ##### Consola
 
 ![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Eclipse7.png)
-![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntelliJ8.png)
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/intelliJ8.png)
 
 #### Preguntas Evaluativas
 
   
+#### Qué diferencias encontraste al ejecutar el mismo código fuente en diferentes IDEs?
+
+Al probar el mismo código en IntelliJ IDEA Ultimate y Eclipse, noté varias diferencias importantes. En IntelliJ, la configuración inicial es más sencilla, ya que te guía para definir el SDK adecuado de acuerdo con el lenguaje que estás usando. En cambio, Eclipse, aunque funciona bien, puede ser un poco menos intuitivo y a veces requiere que instales plugins adicionales para soportar ciertos lenguajes, como Python o Kotlin. Además, la consola y las herramientas de depuración en IntelliJ están mejor integradas, haciendo que ejecutar y depurar el código sea más fluido y rápido, especialmente cuando trabajas con varios lenguajes en un solo proyecto.
+
+#### ¿Cuál de los IDEs te pareció más cómodo o eficiente para ejecutar el código Python o el lenguajes que hayas elegido? ¿Por qué?
 
 
-
-
+En cuanto a comodidad y eficiencia, prefiero usar IntelliJ IDEA Ultimate. Su soporte nativo para diferentes lenguajes, una interfaz moderna y un flujo de trabajo ágil la convierten en una herramienta muy completa y fácil de usar, ideal para proyectos que combinan varios lenguajes o requieren una depuración avanzada. Eclipse es muy útil para Java, pero IntelliJ brinda una experiencia más integral al simplificar la ejecución y depuración en distintos entornos sin tantas configuraciones adicionales.
 
 
 
