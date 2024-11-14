@@ -53,7 +53,7 @@ La principal diferencia la he encontrado en la facilidad para ejecutar y entrar 
  #### Pluggins
 
 ![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Eclipse2.png)
-![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntellijJ2.png)
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Intellij2.png)
 
 
 
@@ -73,8 +73,8 @@ Los plugins instalados son esenciales para la correcta implementación de los le
 
 #### Keys y Automatización
 
-![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Eclipse2.png)
-![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntellijJ2.png)
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Eclipse3.png)
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Intellij3.png)
 
 #### Preguntas Evaluativas
 
