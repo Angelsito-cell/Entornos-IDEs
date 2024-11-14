@@ -21,7 +21,7 @@
  #### Instalación de entornos de desarrollo, propietarios y libres
 
 ![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Eclipse1.png)
-![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntelliJ1.png)
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntellijJ1.png)
 
 
 #### Preguntas Evaluativas
@@ -53,7 +53,7 @@ La principal diferencia la he encontrado en la facilidad para ejecutar y entrar 
  #### Pluggins
 
 ![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Eclipse2.png)
-![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Intellij1.png)
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntellijJ2.png)
 
 
 
@@ -69,7 +69,20 @@ En ambos IDE el proceso fue similar, ya que consistió en buscar e instalar el p
 Los plugins instalados son esenciales para la correcta implementación de los lenguajes de programación que necesito en cada IDE. En el caso de IntelliJ, ofrecen soporte avanzado para Java y otros lenguajes, facilitando la integración de bibliotecas y la gestión de dependencias. En Eclipse, instalé extensiones para C y C++, lo cual mejora la funcionalidad del IDE y facilita la gestión de paquetes y el uso de funciones específicas en esos lenguajes.
 
 
-2.3. Personalización y automatización del entorno (CE 2.c)¶
+### 2.3. Personalización y automatización del entorno 
+
+#### Keys y Automatización
+
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Eclipse2.png)
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntellijJ2.png)
+
+#### Preguntas Evaluativas
+
+¿Qué aspectos del entorno personalizaste y cómo mejoró tu experiencia de desarrollo?
+¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?
+
+
+
 
 
 
