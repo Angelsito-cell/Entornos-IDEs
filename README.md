@@ -78,8 +78,13 @@ Los plugins instalados son esenciales para la correcta implementación de los le
 
 #### Preguntas Evaluativas
 
-¿Qué aspectos del entorno personalizaste y cómo mejoró tu experiencia de desarrollo?
-¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?
+#### ¿Qué aspectos del entorno personalizaste y cómo mejoró tu experiencia de desarrollo?
+
+**Eclipse**: Personalicé el tema visual cambiando a un tema oscuro, lo cual hizo que el entorno fuera menos cansador para la vista durante largas sesiones de trabajo. También ajusté algunos atajos de teclado para acceder rápidamente a funciones clave, como ejecutar pruebas y navegar entre clases, lo que me permitió agilizar tareas repetitivas.
+
+**IntelliJ IDEA**: Personalicé el tema, eligiendo opciones avanzadas de color para una mejor claridad en la lectura de código. Esto redujo la distracción visual y mejoró la comprensión del código en diferentes lenguajes de una manera más clara. Además, configuré atajos personalizados para depuración y ejecución de pruebas, lo que aceleró mi flujo de trabajo al evitar el uso del ratón para estas tareas frecuentes.
+
+#### ¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?
 
 
 
