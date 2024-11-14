@@ -139,7 +139,7 @@ Mantener el IDE actualizado es crucial porque:
   
 ##### Consola
 
-![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntelliJ8.png)
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/intelliJ8.png)
 ![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntelliJ9.png)
 
 #### Preguntas Evaluativas
