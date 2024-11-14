@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/999f82c0-677f-4ee1-9ca2-1ad8c9a73e49)###### Entornos-IDEs
+###### Entornos-IDEs
 
  # Práctica 2.2: Evaluación IDEs
 
