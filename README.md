@@ -82,9 +82,15 @@ Los plugins instalados son esenciales para la correcta implementación de los le
 
 **Eclipse**: Personalicé el tema visual cambiando a un tema oscuro, lo cual hizo que el entorno fuera menos cansador para la vista durante largas sesiones de trabajo. También ajusté algunos atajos de teclado para acceder rápidamente a funciones clave, como ejecutar pruebas y navegar entre clases, lo que me permitió agilizar tareas repetitivas.
 
-**IntelliJ IDEA**: Personalicé el tema, eligiendo opciones avanzadas de color para una mejor claridad en la lectura de código. Esto redujo la distracción visual y mejoró la comprensión del código en diferentes lenguajes de una manera más clara. Además, configuré atajos personalizados para depuración y ejecución de pruebas, lo que aceleró mi flujo de trabajo al evitar el uso del ratón para estas tareas frecuentes.
+**IntelliJ IDEA**: Personalicé el tema, eligiendo opciones avanzadas de color para una mejor claridad en la lectura de código. Esto redujo la distracción visual y mejoró la comprensión del código en diferentes lenguajes de una manera más clara. Además, configuré atajos personalizados para depuración y ejecución de pruebas, lo que aceleró mi flujo de trabajo al evitar el uso del ratón para estas tareas frecuentes, además de 
 
 #### ¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?
+
+**Eclipse**: Configuré la compilación automática del proyecto y creé una configuración de ejecución específica en Run Configurations para ejecutar tests automáticamente con un solo clic. Esto me benefició al reducir los tiempos de espera al compilar cambios manualmente y al detectar errores de forma anticipada cada vez que realizaba modificaciones en el código.
+
+**IntelliJ IDEA**: Habilité la opción de Build Automatically, que recompila el código tras cada modificación sin intervención manual, y configuré una tarea de ejecución automática para pruebas usando Run/Debug Configurations. Esto me permitió trabajar de forma continua, ya que los errores de compilación y resultados de tests aparecían en tiempo real, optimizando así mi productividad y precisión en el desarrollo.
+
+
 
 
 
