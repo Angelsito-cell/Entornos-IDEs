@@ -1,4 +1,4 @@
-###### Entornos-IDEs
+![image](https://github.com/user-attachments/assets/999f82c0-677f-4ee1-9ca2-1ad8c9a73e49)###### Entornos-IDEs
 
  # Práctica 2.2: Evaluación IDEs
 
@@ -103,10 +103,40 @@ Los plugins instalados son esenciales para la correcta implementación de los le
 **IntelliJ IDEA**: Habilité la opción de Build Automatically, que recompila el código tras cada modificación sin intervención manual, y configuré una tarea de ejecución automática para pruebas usando Run/Debug Configurations. Esto me permitió trabajar de forma continua, ya que los errores de compilación y resultados de tests aparecían en tiempo real, optimizando así mi productividad y precisión en el desarrollo.
 
 
+### 2.4. Configuración del sistema de actualización del entorno de desarrollo
+
+##### Actualizaciones automáticas
+
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/Eclipse5.png)
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntelliJ7.png)
+
+#### Preguntas Evaluativas
+
+#### ¿Cómo configuraste las actualizaciones automáticas en cada IDE?
+
+**En Eclipse**:
+   - En la configuración de **Automatic Updates**, activé la opción **Automatically find new updates and notify me**, permitiendo que Eclipse busque actualizaciones automáticamente.
+   - Elegí que Eclipse busque actualizaciones **una vez al día**, para mantener el IDE al día sin tener que realizar esta tarea manualmente.
+   - Configuré que Eclipse **notifique y descargue automáticamente las actualizaciones**, pero que me avise antes de instalarlas, para tener control sobre cuándo realizar la actualización.
+
+**En IntelliJ IDEA**:
+   - En la configuración de **Updates** de IntelliJ, marqué la opción **Check for plugin updates** para buscar actualizaciones de plugins, y habilité **Update plugins automatically** para que se apliquen en segundo plano.
+   - Habilité la opción **Check for JDK updates** para que IntelliJ también verifique actualizaciones de la versión de Java utilizada.
+   - Esta configuración asegura que tanto el IDE como los plugins y el JDK se mantengan actualizados automáticamente.
 
 
+#### ¿Por qué es importante mantener el IDE actualizado en proyectos de desarrollo?
+
+Mantener el IDE actualizado es crucial porque:
+   - **Seguridad**: Las actualizaciones suelen incluir parches de seguridad que protegen el entorno de desarrollo contra vulnerabilidades y ataques.
+   - **Estabilidad y rendimiento**: Cada actualización generalmente incluye correcciones de errores y mejoras de rendimiento que hacen que el IDE sea más confiable y rápido.
+   - **Nuevas características**: Las versiones recientes suelen traer nuevas herramientas y funcionalidades que mejoran la productividad y la calidad del desarrollo de software.
+   - **Compatibilidad**: Los IDEs actualizados garantizan compatibilidad con las versiones más recientes de librerías, frameworks y otros componentes, evitando problemas de incompatibilidad.
 
 
+  ### 2.5. Generación de ejecutables a partir de código fuente en distintos lenguajes en un mismo IDE
+
+  
 
 
 
