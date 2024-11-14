@@ -137,6 +137,49 @@ Mantener el IDE actualizado es crucial porque:
   ### 2.5. Generación de ejecutables a partir de código fuente en distintos lenguajes en un mismo IDE
 
   
+##### Consola
+
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntelliJ8.png)
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntelliJ9.png)
+
+#### Preguntas Evaluativas
+
+#### ¿Cuál fue el proceso para ejecutar el mismo programa en diferentes lenguajes dentro del mismo IDE?
+
+Explicación paso a paso del proyecto: 
+- **Creación de un Proyecto Nuevo**: Se creó un proyecto para cada lenguaje desde el menú principal, eligiendo el tipo adecuado (Java o Kotlin).
+
+- **Escritura del Código**: Luego, se añadió un archivo de código fuente para cada lenguaje (Main.java para Java y Main.kt para Kotlin) y se implementó el mismo programa de cuenta regresiva en cada archivo.
+
+- **Ejecución del Programa**: Con el archivo seleccionado en el editor, simplemente se utilizó el botón de ejecución (o el atajo Shift + F10 en Windows) para compilar y ejecutar el código.
+
+- **Consola de Resultados**: Tanto en Java como en Kotlin, el resultado apareció en la consola de salida de IntelliJ, mostrando la cuenta regresiva y el mensaje final de "¡Despegue!".
+
+#### ¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?
+
+1. **Compilación**:
+   - **Java**: El código fuente de Java se compila en **bytecode** (`.class`), que se ejecuta en la **Java Virtual Machine (JVM)**. Para esto, IntelliJ utiliza el compilador de Java (Javac) para generar los archivos `.class`, y luego la JVM los ejecuta.
+   - **Kotlin**: El proceso de compilación en Kotlin es similar; el código también se convierte en bytecode para la JVM. IntelliJ usa el compilador de Kotlin (`kotlinc`) para generar el bytecode, que se ejecuta de igual manera en la JVM.
+
+2. **Diferencias en el Bytecode**:
+   - Aunque ambos lenguajes generan bytecode para la JVM, el bytecode de Kotlin puede presentar ligeras diferencias internas respecto al de Java, ya que Kotlin introduce optimizaciones y características específicas, como la gestión de null-safety.
+   - En cuanto a la estructura del proyecto, la disposición de algunos archivos generados puede variar entre Kotlin y Java debido a las configuraciones de cada compilador, aunque esto no afecta la ejecución en la JVM.
+
+3. **Configuración del Entorno**:
+   - Para ejecutar Kotlin en IntelliJ, fue necesario verificar que el SDK de Kotlin estuviera habilitado en el proyecto, mientras que para Java solo fue preciso tener el JDK configurado.
+   - IntelliJ maneja bien proyectos que incluyen ambos lenguajes, pero es esencial que cada entorno esté configurado correctamente para que el IDE administre las dependencias y configuraciones de cada uno.
+
+
+### 2.6. Generación de ejecutables con diferentes IDEs a partir del mismo código fuente
+
+##### Consola
+
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntelliJ8.png)
+![Mi captura de pantalla](https://github.com/Angelsito-cell/Entornos-IDEs/raw/main/IntelliJ9.png)
+
+#### Preguntas Evaluativas
+
+  
 
 
 
